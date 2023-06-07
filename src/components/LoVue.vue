@@ -102,7 +102,7 @@ h2:hover {
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
-
+ 
 
 img:hover {
   animation: rotate 3s linear infinite;
